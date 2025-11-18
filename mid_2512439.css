@@ -1,0 +1,32 @@
+body{
+    background-color: antiquewhite;
+     font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+header{
+    background-color: azure;
+    colour:pink
+    text-align=6px;
+border-radius: 12px;
+}
+student info box{
+    border: 2px;
+    border-radius: 5px;
+}
+th,td{
+    background-color:2px beige;
+    text-align:centre ;
+    padding: 8px;
+    margin: 0px;
+
+}
+mark{
+    background-color: bisque;
+    colour:green;
+    padding: 2px;
+    border-radius: 7px;
+
+}
+footer{
+    colour:grey;
+    
+}
